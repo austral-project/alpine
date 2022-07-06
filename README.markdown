@@ -1,7 +1,8 @@
 # Austral Docker - Alpine
 
-[![License](https://poser.pugx.org/austral/website-bundle/license.svg)](https://packagist.org/packages/austral/website-bundle)
-![Docker Image Version (tag latest semver)](https://img.shields.io/docker/v/australproject/alpine/3.15)
+[![License](https://img.shields.io/github/license/austral-project/docker-alpine)](https://img.shields.io/github/license/austral-project/docker-alpine)
+[![Docker Image Version (tag latest semver)](https://img.shields.io/docker/v/australproject/alpine/3.15)](https://img.shields.io/docker/v/australproject/alpine/3.15)
+[![Docker Automated build](https://img.shields.io/docker/automated/australproject/alpine)](https://img.shields.io/docker/automated/australproject/alpine)
 
 __Versions__
 * Alpine : 3.15
