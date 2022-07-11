@@ -3,6 +3,8 @@
 [![License](https://img.shields.io/github/license/austral-project/docker-alpine)](https://img.shields.io/github/license/austral-project/docker-alpine)
 [![Docker Image Version (tag latest semver)](https://img.shields.io/docker/v/australproject/alpine/3.15)](https://img.shields.io/docker/v/australproject/alpine/3.15)
 [![Docker Automated build](https://img.shields.io/docker/automated/australproject/alpine)](https://img.shields.io/docker/automated/australproject/alpine)
+[![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/australproject/alpine)](https://img.shields.io/docker/cloud/build/australproject/alpine)
+[![Docker Image Size (latest semver)](https://img.shields.io/docker/image-size/australproject/alpine)](https://img.shields.io/docker/image-size/australproject/alpine)
 
 __Versions__
 * Alpine : 3.15
